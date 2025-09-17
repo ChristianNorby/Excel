@@ -1,1 +1,39 @@
-# Excel
+# ☕ Coffee Sales Dashboard (Excel Project)
+Date: July 2025
+
+## 📌 Project Overview
+This project is an interactive Excel dashboard that analyzes coffee sales data across regions, product types, and customer loyalty segments.
+
+The goal of the dashboard is to provide business leaders with actionable insights on revenue drivers, customer behavior, and sales performance trends.
+
+This project demonstrates my ability to:
+
+- Build dynamic dashboards using PivotTables, PivotCharts, and Slicers
+- Apply advanced Excel formulas for data cleaning and transformation
+- Present data in a clean, professional, and customizable format
+- Translate raw sales data into business insights and recommendations
+
+## 🛠 Tools & Skills Used
+- Microsoft Excel
+  - PivotTables & PivotCharts
+  - Advanced formulas (INDEX/MATCH, VLOOKUP, SUMIFS, etc.)
+  - Slicers & data filters
+  - Conditional formatting
+- Data Analysis
+  - Trend identification
+  - Regional & product performance analysis
+  - Customer segmentation
+ 
+## 📊 Key Insights
+- Regional Trends: Certain regions consistently outperformed others, signaling where expansion efforts should be focused.
+- Product Analysis: Espresso-based products accounted for the highest percentage of total sales, indicating strong consumer demand.
+- Customer Loyalty: Repeat customers generated a significant portion of revenue, highlighting the importance of loyalty programs.
+
+## 📸 Dashboard Preview
+<img width="1352" height="605" alt="image" src="https://github.com/user-attachments/assets/8111ad00-3924-40ea-b922-376f6b4924b7" />
+
+## 🚀 Business Impact
+If implemented in a real-world coffee retail business, this dashboard would:
+- Allow management to quickly identify top-performing products and regions
+- Help marketing teams target high-value customer segments
+- Support finance and operations teams with monthly KPI reporting
